@@ -4,3 +4,10 @@ c/c++学习用例
 
 2、isprime.c
 判断输入数字是否素数
+
+3、isleapyear.c
+判断输入年份是否闰年
+
+4、areabyside.c
+根据输入边长计算三角形面积
+
